@@ -64,3 +64,8 @@
  순서가 있는 ```<ol></ol>```과 순서가 없는 ```<ul></ul>``` 2가지를 예를 들어서 나타내면 다음과 같이 나타낼 수 있습니다. 
 
  <img src="oltag.png" width="400px" height="250px">
+
+ <strong>㉤ 연결태그 ```<a href=""></a>``` </strong> : 이것은 웹을 웹으로 만들어줍니다. 연결을 하기 위해, 간단한 요소를 사용할 필요가 있습니다 ``` <a> ``` — a 는 "anchor" 의 약자입니다. 
+ ```html
+ <a href="https://www.naver.com/">네이버 연결</a>
+ ```
