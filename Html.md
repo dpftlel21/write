@@ -9,7 +9,7 @@
 
 <h2>2. Html의 기본요소 (1/2)</h2><hr>
 
-<img src="basic.png" width="5000px">
+<img src="https://postfiles.pstatic.net/MjAyMjA1MTdfMTA5/MDAxNjUyNzc2MjYyMjQ3.E7Wgx3HfxTW-53vM5FJxWlrEy1-QAlkmvbqVGdix4FEg.-jGaPwz1hC2Q2duzHkJB9UOfVygGPyJ4_tJ8emK5YsYg.PNG.dkdnmju/basic.png?type=w773" width="5000px">
 
 
 ㉠ ```<!DOCTYPE html>``` — doctype. 아주 오래전 HTML 이 막 나왔을 때 (1991년 2월쯤), doctype은 (자동 오류 확인이나 다른 유용한 것을 의미하는) good HTML로 인정받기 위해 HTML 페이지가 따라야 할 일련의 규칙으로의 연결통로로써 작동하는 것을 의미하였습니다. 하지만, 최근에는 아무도 그런 것들에 대해 신경쓰지 않으며 그저 모든 것이 올바르게 동작하게 하기 위해 포함되어야 할 역사적인 유물일 뿐입니다. 지금은, 그게 알아야 할 전부 입니다. 
@@ -26,7 +26,7 @@
 <hr>
 <h2>2. Html의 기본요소 (2/2)</h2><hr>
 
-<img src="tag.png" width="350px">
+<img src="https://postfiles.pstatic.net/MjAyMjA1MTdfMTEy/MDAxNjUyNzc2MjY4Nzgx._f8pcZlMbY_hajk9hpPMyk7jV3UsQu8IGqD9FR_5Y8Ig.LK4uOG5cx9GCPQ0VidkQV3puuqbaSfWYTA124k0KWLMg.PNG.dkdnmju/tag.png?type=w773" width="350px">
 
 
 ㉠ <strong>여는태그(opening tag)</strong> : 요소의 이름으로 구성되고 (여기에서는 p), 여닫는 꺾쇠괄호로 감싸집니다. 이것은 요소가 시작되는 곳, 또는 효과를 시작하는 곳임을 나타냅니다. 이 예제에서는 문단 시작위치의 <strong>``` <p>``` </strong>가 해당합니다 
@@ -49,7 +49,7 @@
 <strong>㉡ 제목 태그</strong> ```<h1> ~ <h6>```: 제목 요소는 여러분이 내용의 특정 부분이 제목 또는 내용의 하위 제목임을 구체화 할 수 있게 해줍니다. 책에 중심 제목이 있고 그 다음 각각의 장에 제목을 가지고, 그리고 그 안에 부제가 있는 것과 같은 방식으로 HTML 문서도 제목들을 갖습니다. HTML 은 여섯 단계의 제목을 갖고, ```<h1> ~ <h6>``` 까지의 6단계가 있지만 보통 3~4 까지만 자주 사용합니다.
 <br>
 
-<img src="htag.png" width="400px" height="150px">
+<img src="https://postfiles.pstatic.net/MjAyMjA1MTdfNDIg/MDAxNjUyNzc2Mjg4NDQ0.va25UXn_CWPsufU19IJdUxY34LtdGiFBWwEgvUW90cIg.taNSlcvs9WhOLjM2dBAdI0hCcIxFlWooUxyqrqHamrAg.PNG.dkdnmju/htag.png?type=w773" width="400px" height="150px">
 
 <strong>㉢ 문단 태그</strong> ```<p></p>``` : ```<p>``` 요소는 문자의 문단을 포함하기 위한 것입니다; 일반적인 문자 내용을 나타낼 때 많이 사용하게 될 것입니다.
 
@@ -63,7 +63,7 @@
 
  순서가 있는 ```<ol></ol>```과 순서가 없는 ```<ul></ul>``` 2가지를 예를 들어서 나타내면 다음과 같이 나타낼 수 있습니다. 
 
- <img src="oltag.png" width="400px" height="250px">
+ <img src="https://postfiles.pstatic.net/MjAyMjA1MTdfOCAg/MDAxNjUyNzc2Mjc4NDg5.yODdIa6LLJ3MHC_hcMRyAkDXpD4h7vpA7DUC8DZ8duMg.jxgYdmlQEQsAEOLcv30ykK9Yh_huzBU1L24vdloQ49Ig.PNG.dkdnmju/oltag.png?type=w773" width="400px" height="250px">
 
  <strong>㉤ 연결태그 ```<a href=""></a>``` </strong> : 이것은 웹을 웹으로 만들어줍니다. 연결을 하기 위해, 간단한 요소를 사용할 필요가 있습니다 ``` <a> ``` — a 는 "anchor" 의 약자입니다. 
  ```html
